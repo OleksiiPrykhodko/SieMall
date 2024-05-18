@@ -3,5 +3,10 @@
 /* PrimeNg, PrimeFlex, PrimeIcons */
 @import "primeicons/primeicons.css";
 @import "primeflex/primeflex.css";
-@import "primeng/resources/themes/lara-light-blue/theme.css"; /* PrimeNg main theme */
+/*@import "primeng/resources/themes/mdc-light-indigo/theme.css"; /* PrimeNg main theme */
+@import "primeng/resources/themes/aura-light-teal/theme.css"; /* PrimeNg main theme */
 @import "primeng/resources/primeng.css";
+
+html {
+    font-size: 18px;
+}
